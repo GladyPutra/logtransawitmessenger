@@ -1,7 +1,55 @@
-[Window Title]
-Update Available
-
-[Main Instruction]
-A new version of Sublime Text is available, download now?
-
-[Download] [Cancel]
+{
+  "project_info": {
+    "project_number": "121633137611",
+    "firebase_url": "https://ltsmessanger.firebaseio.com",
+    "project_id": "ltsmessanger",
+    "storage_bucket": "ltsmessanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121633137611:android:dce47fecb26a489b",
+        "android_client_info": {
+          "package_name": "com.example.gladyputra.ltsmessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121633137611-k31mrlnpog2l6m7g6b47ek9vc2u26lb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gladyputra.ltsmessanger",
+            "certificate_hash": "dba47c49497f74b1d0aae602a5589a644cd82ab9"
+          }
+        },
+        {
+          "client_id": "121633137611-p16elb9gsd8qt7v4o1ct0pafq76anobp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJMO1DvDy4c_isuAtUtnvtJNXdikR3bg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121633137611-p16elb9gsd8qt7v4o1ct0pafq76anobp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
